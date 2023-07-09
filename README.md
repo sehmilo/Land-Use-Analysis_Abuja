@@ -17,6 +17,7 @@ In this project, the data obtained displays a map of land use/land cover (LULC) 
 # About
 Abuja is the capital and eighth most populous city of Nigeria.[5] Situated at the center of the country within the Federal Capital Territory (FCT), it is a planned city built mainly in the 1980s based on a master plan by International Planning Associates (IPA), a consortium of three American planning and architecture firms made up of Wallace, Roberts, McHarg & Todd (WRMT – a group of architects) as the lead, Archisystems International (a subsidiary of the Howard Hughes Corporation), and Planning Research Corporation. The Central Business District of Abuja was designed by Japanese architect Kenzo Tange. It replaced Lagos, the country's most populous city, as the capital on 12 December 1991.
 Abuja's geography is defined by Aso Rock, a 400-meter (1,300 ft) monolith left by water erosion. The Presidential Complex, National Assembly, Supreme Court, and much of the city extend to the south of the rock. Zuma Rock, a 792-meter (2,598 ft) monolith, lies just north of the city on the expressway to Kaduna.
+
 Land use and land cover analysis is a process of examining and categorizing the different types of land use and land cover within a particular area or region. It involves studying the physical and human-made features present on the Earth's surface and classifying them into various categories based on their characteristics and functions.
 The analysis of land use and land cover is crucial for understanding the spatial distribution of different land uses, such as urban areas, agricultural lands, forests, water bodies, and natural landscapes. It provides valuable information about the extent, composition, and changes occurring in the land cover over time. This analysis helps in monitoring and managing land resources, assessing environmental impacts, and supporting various planning and decision-making processes.
 There are several methods and tools used for land use and land cover analysis, including remote sensing, geographic information systems (GIS), aerial photography, and field surveys. Remote sensing, which involves the use of satellite or airborne sensors to capture data about the Earth's surface, is particularly useful for large-scale land cover mapping and monitoring.
@@ -35,10 +36,11 @@ The process of land use and land cover analysis typically involves the following
 
 # LULC Map(2017-2022)
 ## 2017
-![alt]()
+![LULC 2017](Abuja_LULC_2017.jpg)
 
 # Limitation
 Land use focus does not provide the spatial detail of a land cover map. As such, for the built area classification, yards, parks, and groves will appear as built areas rather than trees or rangeland classes.
+
 The year 2017 has a land cover class assigned for every pixel, but its class is based upon fewer images than the other years. The years 2018-2022 are based upon a more complete set of imagery. For this reason, the year 2017 may have less accurate land cover class assignments than the years 2018-2022.
 
 
@@ -55,11 +57,18 @@ This work is licensed under a Creative Commons by Attribution (CC BY 4.0) licens
 
 # References
 Karra, Kontgis, et al. “Global land use/land cover with Sentinel-2 and deep learning.” IGARSS 2021-2021 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2021.
+
 "Define Abuja's at Dictionary.com". dictionary.com. Random House, Inc. Retrieved 23 January 2023.
+
 "Abuja | Geography, Development, & Population | Britannica". www.britannica.com. Retrieved 23 January 2023.
+
 Ogbuenyi, Nosike (3 February 2022). "Abuja at 46: The Dreams, Strides, Challenges". Premium Times Nigeria. Retrieved 23 January 2023.
+
 "The Nigeria Capital City – AMLSN National Conference". Retrieved 23 January 2023.
+
 "Central area of New Federal Capital City of Nigeria". Tange Associates. Retrieved 19 February 2022.
+
 "Life of poverty in Abuja's wealth". news.bbc.co.uk. BBC News, Tuesday, 13 February 2007. 13 February 2007. Retrieved 25 January 2023.
+
 titel. "Build a house in Japan | Connect with Japanese Architects | titel". Retrieved 25 January 2023.
 
