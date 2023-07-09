@@ -53,7 +53,7 @@ The process of land use and land cover analysis typically involves the following
 ## 2021
 ![LULC 2021](Abuja_LULC_2021.jpg)
 
-##2022
+## 2022
 ![LULC 2021](Abuja_LULC_2022.jpg)
 
 
