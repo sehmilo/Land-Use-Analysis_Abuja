@@ -38,6 +38,22 @@ The process of land use and land cover analysis typically involves the following
 ## 2017
 ![LULC 2017](Abuja_LULC_2017.jpg)
 
+## 2018
+![LULC 2018](Abuja_LULC_2018.jpg)
+
+## 2019
+![LULC 2019](Abuja_LULC_2019.jpg)
+
+## 2020
+![LULC 2020](Abuja_LULC_2020.jpg)
+
+## 2021
+![LULC 2021](Abuja_LULC_2021.jpg)
+
+##2022
+![LULC 2022](Abuja_LULC_2022.jpg)
+
+
 # Limitation
 Land use focus does not provide the spatial detail of a land cover map. As such, for the built area classification, yards, parks, and groves will appear as built areas rather than trees or rangeland classes.
 
