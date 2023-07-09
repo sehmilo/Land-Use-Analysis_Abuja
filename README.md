@@ -76,6 +76,7 @@ This work is licensed under a Creative Commons by Attribution (CC BY 4.0) licens
 # References
 Karra, Kontgis, et al. “Global land use/land cover with Sentinel-2 and deep learning.” IGARSS 2021-2021 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2021.
 
+
 "Define Abuja's at Dictionary.com". dictionary.com. Random House, Inc. Retrieved 23 January 2023.
 
 "Abuja | Geography, Development, & Population | Britannica". www.britannica.com. Retrieved 23 January 2023.
