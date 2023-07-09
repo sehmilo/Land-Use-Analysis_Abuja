@@ -5,7 +5,7 @@ GIS analysis of 2017 to 2022 Sentinel-2 Land use map for Abuja, Nigeria
 1. [Overview](#Overview)
 2. [About](#About)
 3. [Dataframe Structure](#Dataframe-Structure)
-4. [LULC Map(2017-2022)](#LULC Map(2017-2022)
+4. [LULC-Map(2017-2022)](#LULC-Map(2017-2022))
 5. [Limitation](#Limitation)
 6. [Credits(Attribution)](#Credits(Attribution))
 7. [References](#References)
